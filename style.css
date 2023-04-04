@@ -1,12 +1,13 @@
+.pricipal{
+    display: flex;
+    flex-direction: row;
+    
+    }
+
 .moto2{
 width: 50%;
 
 }
 .moto1{
     width: 400px;
-}
-.pricipal{
-display: flex;
-flex-direction: row;
-
 }
