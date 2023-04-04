@@ -5,3 +5,8 @@ width: 350px;
 .moto1{
     width: 350px;
 }
+.pricipal{
+display: flex;
+flex-direction: row;
+
+}
