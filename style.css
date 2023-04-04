@@ -1,13 +1,15 @@
-.pricipal{
+.pricipal {
+    /*seu erro está na palavra principal, faltou a letra "n"*/
     display: flex;
     flex-direction: row;
-    
-    }
-
-.moto2{
-width: 50%;
 
 }
-.moto1{
+
+.moto2 {
+    width: 50%;
+
+}
+
+.moto1 {
     width: 400px;
 }
