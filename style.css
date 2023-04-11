@@ -1,5 +1,5 @@
-.pricipal {
-    /*seu erro está na palavra principal, faltou a letra "n"*/
+.principal {
+
     display: flex;
     flex-direction: row;
 
